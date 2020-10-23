@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+h1 {
+  padding-bottom: 50px;
+}
+.userCard {
+  width: 300px;
+  margin: 20px;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-gray-gradient-sharp-tool-psd-layered-main-picture-background-material-image_157567.jpg");
+  box-shadow: 12px 12px 2px 1px rgba(160, 160, 167, 0.2);
+}
+.userslist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.cards {
+  padding-top: 100px;
+}
+.user-name {
+  color: darkcyan;
+  font-size: 400;
+}
+.home {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-gray-gradient-sharp-tool-psd-layered-main-picture-background-material-image_157567.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 570px;
+}
+.nav {
+  text-decoration: none;
+  color: white;
+  margin-left: 50px;
+}
